@@ -133,11 +133,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abdel\\Desktop\\projet\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\abdel\\Documents\\First_DotNet_Project\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\abdel\\Desktop\\projet\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\abdel\\Documents\\First_DotNet_Project\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\abdel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abdel\\Desktop\\projet\\Application\\obj\\",
+      "outputPath": "C:\\Users\\abdel\\Documents\\First_DotNet_Project\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -159,8 +159,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\abdel\\Desktop\\projet\\domaine\\domaine.csproj": {
-              "projectPath": "C:\\Users\\abdel\\Desktop\\projet\\domaine\\domaine.csproj"
+            "C:\\Users\\abdel\\Documents\\First_DotNet_Project\\domaine\\domaine.csproj": {
+              "projectPath": "C:\\Users\\abdel\\Documents\\First_DotNet_Project\\domaine\\domaine.csproj"
             }
           }
         }
@@ -201,7 +201,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.316/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
